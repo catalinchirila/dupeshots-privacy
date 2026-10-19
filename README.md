@@ -1,1 +1,1 @@
-# cleanshot-privacy
+# dupeshots-privacy
